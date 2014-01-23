@@ -5,10 +5,7 @@ repos:
 - github_repo: testobsessed/docs-content-private
   directory: sectionb
 
-pdf:
-  page: pivotalcf/getstarted/index.html
-  filename: GettingStarted.pdf
-  header: pdf_header.html
+public_host: mydocs.cfapps.io
 
 template_variables:
   app_domain: example.com

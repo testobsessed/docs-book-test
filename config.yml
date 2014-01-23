@@ -1,0 +1,14 @@
+---
+repos:
+- github_repo: testobsessed/docs-content-public
+  directory: sectiona
+- github_repo: testobsessed/docs-content-private
+  directory: sectionb
+
+pdf:
+  page: pivotalcf/getstarted/index.html
+  filename: GettingStarted.pdf
+  header: pdf_header.html
+
+template_variables:
+  app_domain: example.com

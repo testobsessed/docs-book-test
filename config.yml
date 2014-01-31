@@ -1,4 +1,6 @@
 ---
+github_repo: testobsessed/docs-book-test
+
 repos:
 - github_repo: testobsessed/docs-content-public
   directory: sectiona

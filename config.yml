@@ -4,8 +4,10 @@ github_repo: testobsessed/docs-book-test
 repos:
 - github_repo: testobsessed/docs-content-public
   directory: sectiona
+  subnav_template: hithere.erb
 - github_repo: testobsessed/docs-content-private
   directory: sectionb
+  subnav_template: yothere.erb
 
 public_host: mydocs.cfapps.io
 

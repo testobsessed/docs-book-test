@@ -1,3 +1,3 @@
 # Test Doc Book
 
-This project is a test book for Bookbinder
+This project is a test book for Bookbinder.

@@ -1,6 +1,7 @@
 ---
-github_repo: testobsessed/docs-book-test
-
+book_repo: testobsessed/docs-book-test
+cred_repo: testobsessed/docs-pcf-site-credentials
+subnav_template: yothere.erb
 repos:
 - github_repo: testobsessed/docs-content-public
   directory: sectiona

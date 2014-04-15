@@ -2,13 +2,15 @@
 book_repo: testobsessed/docs-book-test
 cred_repo: testobsessed/docs-pcf-site-credentials
 subnav_template: yothere.erb
-repos:
-- github_repo: testobsessed/docs-content-public
-  directory: sectiona
-  subnav_template: hithere.erb
-- github_repo: testobsessed/docs-content-private
-  directory: sectionb
-  subnav_template: yothere.erb
+sections:
+  - repository:
+      name: testobsessed/docs-content-public
+    directory: sectiona
+    subnav_template: hithere.erb
+  - repository:
+      name: testobsessed/docs-content-private
+    directory: sectionb
+    subnav_template: yothere.erb
 
 public_host: mydocs.cfapps.io
 

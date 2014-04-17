@@ -1,0 +1,2 @@
+/sectionb/content.md
+/sectiona/content.md

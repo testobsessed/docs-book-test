@@ -16,3 +16,6 @@ public_host: mydocs.cfapps.io
 
 template_variables:
   app_domain: example.com
+
+pdf:
+  header: pdf_header.html

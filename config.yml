@@ -18,4 +18,5 @@ template_variables:
   app_domain: example.com
 
 pdf:
+  filename: index
   header: pdf_header.html

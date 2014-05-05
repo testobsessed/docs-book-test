@@ -1,2 +1,5 @@
+copyright_notice: 'Copyright Pivotal Software Inc, 2042-2043'
+header: pdf_header.html
+pages:
 - sectionb/content.html
 - sectiona/content.html

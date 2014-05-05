@@ -1,6 +1,7 @@
 ---
 book_repo: testobsessed/docs-book-test
 cred_repo: testobsessed/docs-pcf-site-credentials
+layout_repo: testobsessed/docs-book-test-layout
 subnav_template: yothere.erb
 sections:
   - repository:
